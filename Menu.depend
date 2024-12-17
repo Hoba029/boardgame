@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1734453536 source:c:\users\dell\onedrive\desktop\test program\codeforces proplems\assignmets collage\menu\main.cpp
+	<iostream>
+	"../../game1/include/PyramicTicTacToeBoard.h"
+	"../../game2/include/WordTicTacToeBoard.h"
+	"../../game8/include/UltimateTicTacToe.h"
+	"../../game8/include/BoardGame_Classes.h"
+	<vector>
+	"../gammes/include/FourInARow.h"
+	"../gammes/include/NumericalBoard.h"
+	"../gammes/include/TicTacToe4x4.h"
+
+1734285653 c:\users\dell\onedrive\desktop\test program\codeforces proplems\game1\include\pyramictictactoeboard.h
+	"BoardGame_Classes.h"
+	<ctime>
+
+1734281385 c:\users\dell\onedrive\desktop\test program\codeforces proplems\game1\include\boardgame_classes.h
+	<string>
+	<vector>
+	<iostream>
+
+1734412569 c:\users\dell\onedrive\desktop\test program\codeforces proplems\game2\include\wordtictactoeboard.h
+	<unordered_set>
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cctype>
+	<cstdlib>
+
+1734409820 c:\users\dell\onedrive\desktop\test program\codeforces proplems\game8\include\ultimatetictactoe.h
+
+1734364546 c:\users\dell\onedrive\desktop\test program\codeforces proplems\game8\include\boardgame_classes.h
+	<string>
+	<vector>
+	<iostream>
+
+1734453173 c:\users\dell\onedrive\desktop\test program\codeforces proplems\assignmets collage\gammes\include\fourinarow.h
+	<iostream>
+	<vector>
+
+1734453173 c:\users\dell\onedrive\desktop\test program\codeforces proplems\assignmets collage\gammes\include\numericalboard.h
+	<iostream>
+	<vector>
+	<string>
+
+1734453173 c:\users\dell\onedrive\desktop\test program\codeforces proplems\assignmets collage\gammes\include\tictactoe4x4.h
+	<iostream>
+	<vector>
+
+1734455092 source:c:\users\dell\onedrive\desktop\test program\menu\main.cpp
+	<iostream>
+	"PyramicTicTacToeBoard.h"
+	"WordTicTacToeBoard.h"
+	"UltimateTicTacToe.h"
+	"BoardGame_Classes.h"
+	<vector>
+	"TicTacToe4x4.h"
+	"FourInARow.h"
+	"NumericalBoard.h"
+
+1734285653 c:\users\dell\onedrive\desktop\test program\menu\pyramictictactoeboard.h
+	"BoardGame_Classes.h"
+	<ctime>
+
+1734281385 c:\users\dell\onedrive\desktop\test program\menu\boardgame_classes.h
+	<string>
+	<vector>
+	<iostream>
+
+1734412569 c:\users\dell\onedrive\desktop\test program\menu\wordtictactoeboard.h
+	<unordered_set>
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cctype>
+	<cstdlib>
+
+1734409820 c:\users\dell\onedrive\desktop\test program\menu\ultimatetictactoe.h
+
+1734453173 c:\users\dell\onedrive\desktop\test program\menu\tictactoe4x4.h
+	<iostream>
+	<vector>
+
+1734453173 c:\users\dell\onedrive\desktop\test program\menu\fourinarow.h
+	<iostream>
+	<vector>
+
+1734453173 c:\users\dell\onedrive\desktop\test program\menu\numericalboard.h
+	<iostream>
+	<vector>
+	<string>
+
